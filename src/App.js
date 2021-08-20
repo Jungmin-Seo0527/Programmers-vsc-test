@@ -9,5 +9,6 @@ export default class App {
         this.$target = $target
 
         this.dashboard = new Sample($target)
+        this.dashboard = new Sample($target)
     }
 }
